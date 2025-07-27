@@ -37,7 +37,7 @@ The **Medical Report Analyzer** is an AI-powered Streamlit web application that 
 - **Python** – Core language  
 - **Streamlit** – For building the web interface  
 - **LangChain** – Prompt orchestration with LLMs  
-- **LLMs** – OpenAI / Groq / Hugging Face  
+- **LLMs** - Groq
 - **PyMuPDF (fitz)** – For extracting text from PDF reports  
 
 ---
