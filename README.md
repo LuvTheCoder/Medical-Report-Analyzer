@@ -45,9 +45,9 @@ The **Medical Report Analyzer** is an AI-powered Streamlit web application that 
 ## ⚙️ How to Run Locally
 
 ### 1. Clone the Repository 
-### 2. Use your own API key
-
 ```bash
 git clone https://github.com/your-username/medical-report-analyzer.git
 cd medical-report-analyzer
+```
+### 2. Use your own API key
 
